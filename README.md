@@ -11,8 +11,4 @@ Matematicamente, o processo de cristalização é complexo e desafiador, pois é
 
 A partir do modelo, é possível prever o comportamento do tamanho dos cristais em diferentes tempos de residência dentro do cristalizador, além de estudar o tamanho dominante (faixa de tamanho que apresenta maior população de cristais) e a densidade de população de cristais. Uma discussão mais aprofundada sobre cristalização, os modelos utilizados e os resultados obtidos pode ser encontrada no [Relatório Final]() deste projeto de Iniciação Científica.
 
- <div>
- <font size="2">
-*Silva, J. M. F.; Lopes, C. E. ; Meirelles, A. J. A. ; Maciel, M. R. W. . Stefan´s Problem Applied To Solution Crystalization. Journal of Chemical Engineering of Japan, 39 (1), 940- 947, 2006.
-</font>
-</div>
+<font size="1"> *Silva, J. M. F.; Lopes, C. E. ; Meirelles, A. J. A. ; Maciel, M. R. W. . Stefan´s Problem Applied To Solution Crystalization. Journal of Chemical Engineering of Japan, 39 (1), 940- 947, 2006. </font>

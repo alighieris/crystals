@@ -3,7 +3,18 @@ Neste repositório encontra-se o projeto desenvolvido como iniciação científi
 
 O código do projeto foi desenvolvido em linguagem Python, e inicialmente a proposta era apenas o código para a simulação. Porém, visando facilitar futuras pesquisas sobre o tema, utilizando o mesmo modelo, foi desenvolvida também uma interface gráfica de usuário utilizando o framework Tkinter, culminando num software final, executável e stand-alone.
 
-### Um pouco sobre Cristalização
+#### Sobre o Código
+O projeto foi desenvolvido totalmente em linguagem Python, utilizando as seguintes bibliotecas:
+* **Numpy** para manipulação matemática
+* **Pandas** para manipulação de dados
+* **Matplotlib** para visualização de dados
+* **Tkinter** para desenvolvimento da interface gráfica de usuário
+* **pyinstaller** para criar executável
+
+O aplicativo permite realizar as simulações usando diferentes datasets de variáveis do modelo matemático, alterando algumas propriedades dos gráficos que serão gerados e permite salvá-los na pasta desejada.
+
+
+#### Um pouco sobre Cristalização
 
 A cristalização é um processo de separação e purificação de componentes muito utilizado em indústrias químicas. O tamanho e formato dos cristais é de grande importância para suas características físico-químicas, dessa forma é necessário que haja uma previsão e controle do comportamento do processo.
 
@@ -11,4 +22,4 @@ Matematicamente, o processo de cristalização é complexo e desafiador, pois é
 
 A partir do modelo, é possível prever o comportamento do tamanho dos cristais em diferentes tempos de residência dentro do cristalizador, além de estudar o tamanho dominante (faixa de tamanho que apresenta maior população de cristais) e a densidade de população de cristais. Uma discussão mais aprofundada sobre cristalização, os modelos utilizados e os resultados obtidos pode ser encontrada no [Relatório Final]() deste projeto de Iniciação Científica.
 
-<font size="1"> *Silva, J. M. F.; Lopes, C. E. ; Meirelles, A. J. A. ; Maciel, M. R. W. . Stefan´s Problem Applied To Solution Crystalization. Journal of Chemical Engineering of Japan, 39 (1), 940- 947, 2006. </font>
+**Silva, J. M. F.; Lopes, C. E. ; Meirelles, A. J. A. ; Maciel, M. R. W. . Stefan´s Problem Applied To Solution Crystalization. Journal of Chemical Engineering of Japan, 39 (1), 940- 947, 2006.*
